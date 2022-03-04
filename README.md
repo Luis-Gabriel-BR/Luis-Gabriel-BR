@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo(a) !
 <div align="center">
   <a href="https://github.com/Luis-Gabriel-BR">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Luis-Gabriel-BR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Luis-Gabriel-BR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Gabriel-BR&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
